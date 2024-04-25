@@ -2,7 +2,6 @@
 <a href="https://instagram.com/w8dead" target="_blank"><img src="https://img.shields.io/badge/w8dead-pink?style=social&logo=instagram" style="margin-bottom: 5px; width:109px;" /></a>
 <a href="https://open.spotify.com/intl-fr/artist/5DqITolt67nOjyeA1nyKuu?si=xCoHoltwRM-4AdjFuZQE2Q" target="_blank"><img src="https://img.shields.io/badge/vheal-green?style=social&logo=spotify" style="margin-bottom: 5px; width:90px;" /></a>
 <a href="https://discord.gg/w8" target="_blank"><img src="https://img.shields.io/badge/w8-blue?style=social&logo=discord" style="margin-bottom: 5px; width:74px;" /></a>  
-<br/>
 
 ## 💻
 <a href="#" target="_blank"><img alt="Blockbench" src="https://img.shields.io/badge/Blockbench-23A55A?style=flat-square&logo=blockbench&logoColor=white" style="margin-bottom: 5px; width:160px;"/></a>
@@ -13,6 +12,11 @@
 <br/>
 
 ## 📓
+
+<picture>
+    <img align="right" width="20%" src="colors.svg" hspace="300" >
+</picture>
+
 | Hex                                                                |
 | ------------------------------------------------------------------ |
 | ![#275A37](https://via.placeholder.com/10/275A37?text=+) #275A37 |
