@@ -14,7 +14,7 @@
 ## 📓
 
 <picture>
-    <img align="right" width="20%" src="colors.svg" hspace="300" >
+    <img align="right" width="20%" src="colors.svg" hspace="200" >
 </picture>
 
 | Hex                                                                |
