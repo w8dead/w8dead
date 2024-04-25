@@ -25,4 +25,4 @@
 | ![#4DAF69](https://via.placeholder.com/10/4DAF69?text=+) #4DAF69 |
 
 ## 👀
-<img src="https://komarev.com/ghpvc/?username=w8dead&color=green&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=w8dead&color=23A55A&style=flat-square"/>
